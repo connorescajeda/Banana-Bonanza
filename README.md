@@ -24,10 +24,10 @@ Overall, I really enjoyed the time I had when I was making this. It is what made
 
 ### Pictures of a games progression
 * This is what the start of a game looks before you've started your banana empire.
-* ![Start of a game](/BB_1)
+* ![Start of a game](https://github.com/connorescajeda/Banana-Bonanza/blob/main/BB_1.png)
 * This is how the game looks after you started to gain some bananas and bought some banana buildings to increase your production.
-* ![Middle of game](/BB_2)
+* ![Middle of game](https://github.com/connorescajeda/Banana-Bonanza/blob/main/BB_2.png)
 * This is what happens when you buy the Banana Takeover building, and if you see it offers you the chance to restart in the middle.
-* ![Hostile Takeover](/BB_3)
+* ![Hostile Takeover](https://github.com/connorescajeda/Banana-Bonanza/blob/main/BB_3.png)
 * This is what happens when you have returned to a new universe, if you notice the buildings now all create more bananas than the last.
-* ![After Takeover](/BB_4)
+* ![After Takeover](https://github.com/connorescajeda/Banana-Bonanza/blob/main/BB_4.png)
