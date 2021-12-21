@@ -232,7 +232,7 @@ def main():
                             building_amounts[button][2] += int(((building_amounts[button][2] * .12) // 1))
                         i += 1
                 if banana_button.is_over(pos):
-                    banana_amount += 100000000
+                    banana_amount += 1
                 if reset_button.is_over(pos):
                     building_amounts = {}
                     banana_amount = 0
@@ -254,5 +254,3 @@ def main():
 
 
 main()
-
-
